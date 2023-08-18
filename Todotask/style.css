@@ -1,0 +1,67 @@
+.q2{
+    background-color: rgb(58, 58, 233);
+}
+.q1{
+    background-color: rgb(59, 221, 221);
+    height: 200px;
+    
+}
+.q3{
+    margin-left: 40%;
+
+}
+.c1{
+    background-color: rgb(0, 115, 255);
+    background-color: rgb(0, 115, 255);
+    width: 15%;
+    height: 40px;
+    
+}
+.call1{
+    border: solid 4px;
+    padding: 100px;
+    width: 15%;
+   margin-left:30%;
+   margin-top: 10px;
+   color: red;
+   box-shadow: black 20px 20px 20px;
+
+}
+
+
+.call2{
+    border: solid 4px;
+    padding: 100px;
+    width: 15%;
+   margin-left:60%;
+   color: green;
+   
+}
+.call3{
+    border: solid 4px;
+    padding: 100px;
+    width: 15%;
+   margin-left:30%;
+   color: yellow;
+   
+}
+.call4{
+    border: solid 4px;
+    padding: 100px;
+    width: 15%;
+   margin-left:60%;
+   color:black;
+
+}
+    
+   
+.e2{
+    height: 40px;
+}
+.e3{
+    margin-top: -2px;
+    margin-right: 20px;
+}
+body{
+    background-color: whitesmoke;
+}
